@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/negin-khademi.github.io/eat-n-split/static/css/main.f38a3276.css",
-    "main.js": "/negin-khademi.github.io/eat-n-split/static/js/main.273b0d68.js",
-    "index.html": "/negin-khademi.github.io/eat-n-split/index.html",
-    "main.f38a3276.css.map": "/negin-khademi.github.io/eat-n-split/static/css/main.f38a3276.css.map",
-    "main.273b0d68.js.map": "/negin-khademi.github.io/eat-n-split/static/js/main.273b0d68.js.map"
+    "main.css": "/eat-n-split/static/css/main.f38a3276.css",
+    "main.js": "/eat-n-split/static/js/main.273b0d68.js",
+    "index.html": "/eat-n-split/index.html",
+    "main.f38a3276.css.map": "/eat-n-split/static/css/main.f38a3276.css.map",
+    "main.273b0d68.js.map": "/eat-n-split/static/js/main.273b0d68.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
